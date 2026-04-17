@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<h1 align="center">Surya Mahesh</h1>
+<h3 align="center">Full Stack Developer | AI Systems | IoT Engineer</h3>
 
-<!--
-**SuryaMahesh04/SuryaMahesh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/suryamahesh004">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SuryaMahesh04">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:suryamaheshguduri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+```js
+const surya = {
+  education: "B.Tech CSE (IoT) - Final Year",
+  role: "Full Stack Developer @ Morphius AI",
+  focus: ["AI Systems", "Scalable Web Apps", "IoT Solutions"],
+  experience: "Building real-world production systems",
+};
