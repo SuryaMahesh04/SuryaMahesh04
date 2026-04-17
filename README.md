@@ -17,7 +17,7 @@
 {
   "name": "Guduri Surya Mahesh",
   "role": "Full Stack Developer @ Morphius AI",
-  "education": "B.Tech in CSE (IoT) @ Holy Mary Institute of Technology",
+  "education": "B.Tech in CSE (IoT)",
   "focus": ["Autonomous AI Agents", "Cloud Architecture", "IoT Ecosystems"],
   "stack": ["Next.js", "TypeScript", "Node.js", "Gemini AI"],
   "motto": "Turning complex problems into elegant, scalable solutions."
